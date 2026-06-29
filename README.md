@@ -6,12 +6,12 @@
 - 🌱 Currently learning **Computer Vision, AI And Deep Learning**
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=winducky&label=Profile%20views&color=0e75b6&style=flat" alt="winducky" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=produckx&label=Profile%20views&color=0e75b6&style=flat" alt="produckx" /> </p>
 <br>
 
 <h2 align="center"> 📫 Contact for me: </h2>
 <p align="center">
-  <a href="https://fb.com/danpvsocson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danpvsocson" height="30" width="40" /></a>
+  <a href="https://fb.com/produckx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danpvsocson" height="30" width="40" /></a>
     <a href="mailto:admin@devbase.io.vn" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="" height="30" width="40" /></a>
 </p>
 <br>
@@ -34,8 +34,8 @@
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=winducky&langs_count=3&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&locale=en&custom_title=Top%20%Languages)](https://github.com/winducky)
-[![winducky's GitHub stats](https://github-readme-stats.vercel.app/api?username=winducky&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&show_icons=true)](http://www.github.com/winducky)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=winducky&langs_count=3&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&locale=en&custom_title=Top%20%Languages)](https://github.com/produckx)
+[![winducky's GitHub stats](https://github-readme-stats.vercel.app/api?username=winducky&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&show_icons=true)](http://www.github.com/produckx)
 
 </div>
 
