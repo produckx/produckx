@@ -16,10 +16,10 @@
 
 ## 🧑‍💻 About Me
 
-```ts
-const ProDuckX = {
+```python
+def ProDuckX = {
   location:  "Vietnam 🇻🇳",
-  sex:        "Male",
+  sex:       "Male",
   role:      "Web Software Developer",
   learning:  ["Computer Vision AI", "Web Developer Fullstack"],
   funFact:   "I love solving puzzles and coding challenges 🧩",
