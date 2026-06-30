@@ -34,8 +34,8 @@
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=winducky&langs_count=3&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&locale=en&custom_title=Top%20%Languages)](https://github.com/produckx)
-[![winducky's GitHub stats](https://github-readme-stats.vercel.app/api?username=winducky&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&show_icons=true)](http://www.github.com/produckx)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=produckx&langs_count=3&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&locale=en&custom_title=Top%20%Languages)](https://github.com/produckx)
+[![winducky's GitHub stats](https://github-readme-stats.vercel.app/api?username=produckx&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&show_icons=true)](http://www.github.com/produckx)
 
 </div>
 
