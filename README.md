@@ -10,7 +10,7 @@
 &nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/produckx)
 &nbsp;
-[![Facebook](https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg)](https://fb.com/produckx)
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://fb.com/produckx)
 
 </div>
 
@@ -18,11 +18,11 @@
 
 ```python
 def ProDuckX = {
-  location:  "Vietnam 🇻🇳",
-  sex:       "Male",
-  role:      "Web Software Developer",
-  learning:  ["Computer Vision AI", "Web Developer Fullstack"],
-  funFact:   "I love solving puzzles and coding challenges 🧩",
+  location:  "📍 Vietnam 🇻🇳",
+  sex:       "👨 Male",
+  role:      "🧑‍💻 Web Software Developer",
+  learning:  ["🖥️ Computer Vision AI", "🌐 Web Developer Fullstack"],
+  funFact:   "❤️ I love solving puzzles and coding challenges 🧩",
 };
 ```
 
@@ -45,7 +45,7 @@ def ProDuckX = {
 
 **Backend & Database**
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,postgres,sqlite,mysql)](https://skillicons.dev)
 
 **DevOps & Tools**
 
