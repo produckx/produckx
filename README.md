@@ -10,7 +10,7 @@
 &nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/produckx)
 &nbsp;
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://fb.com/produckx)
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg)](https://fb.com/produckx)
 
 </div>
 
@@ -37,19 +37,19 @@ def ProDuckX = {
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,dart,postgresql)](https://skillicons.dev)
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,bootstrap)](https://skillicons.dev)
 
 **Backend & Database**
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,mysql)](https://skillicons.dev)
 
 **DevOps & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,bruno)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,flutter,postman,bruno)](https://skillicons.dev)
 
 </div>
 
