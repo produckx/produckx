@@ -29,6 +29,7 @@ def ProDuckX = {
 - 🔭 &nbsp; Currently building full-stack web applications, Yolo Ultralytics
 - 🌱 &nbsp; Deepening knowledge in **Computer Vision AI** & **System Design**
 - ⚡ &nbsp; Fun fact: I love solving puzzles and coding challenges
+- 🌐 My Web: [profile.devbase.io.vn](https://profile.devbase.io.vn)
 <!-- - 💬 &nbsp; Ask me about **Python, FastAPI, PostgreSQL, JavaScript** -->
 
 ## 🛠️ Tech Stack
