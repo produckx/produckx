@@ -69,9 +69,9 @@ def ProDuckX = {
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*
+> *"Think. Build. Improve."*
 >
-> — **John Johnson**
+> — **Ducky**
 
 </div>
 
