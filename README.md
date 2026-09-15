@@ -50,7 +50,7 @@ def ProDuckX = {
 
 **DevOps & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,flutter,postman,bruno)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,flutter,postman)](https://skillicons.dev)
 
 </div>
 
