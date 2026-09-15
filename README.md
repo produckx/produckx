@@ -10,7 +10,7 @@
 &nbsp;
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/produckx)
 &nbsp;
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://fb.com/produckx)
+[![Facebook](https://svgl.app/library/facebook-icon.svg)](https://fb.com/produckx)
 
 </div>
 
