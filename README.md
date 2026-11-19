@@ -71,12 +71,12 @@ def ProDuckX = {
 <a  href="https://github.com/produckx">
 
 <img src="https://raw.githubusercontent.com/produckx/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/produckx/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=produckx&layout=compact" width="32.5%">
 <img src="https://raw.githubusercontent.com/produckx/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a> 
 <br/><br/>
-<img align="center" src="https://raw.githubusercontent.com/produckx/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=produckx&layout=compact" >
 <hr></hr>
 
 ## 💬 Favorite Quote
