@@ -60,7 +60,7 @@ def ProDuckX = {
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=produckx&show_icons=true&count_private=true&hide=contribs&title_color=3382ed&text_color=c9d1d9&icon_color=3382ed&bg_color=0d1117&hide_border=true&cache_seconds=86400)](https://github.com/produckx)
 &nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=produckx&langs_count=6&title_color=3382ed&text_color=c9d1d9&icon_color=3382ed&bg_color=0d1117&hide_border=true&layout=compact&cache_seconds=86400)](https://github.com/produckx)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=produckx&layout=compact)](https://github.com/produckx)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=produckx&theme=dark&hide_border=true&ring=3382ed&fire=3382ed&currStreakLabel=3382ed&background=0D1117)](https://git.io/streak-stats)
 
