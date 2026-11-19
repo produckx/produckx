@@ -60,7 +60,7 @@ def ProDuckX = {
 <a  href="https://github.com/produckx">
 
 <img src="https://github-readme-stats.vercel.app/api?username=produckx&hide=issues&show_icons=true" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=produckx&layout=compact" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=produckx&layout=compact" width="35%">
 <!-- <img src="https://raw.githubusercontent.com/produckx/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> -->
 
 </a> 
