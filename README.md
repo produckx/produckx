@@ -55,24 +55,13 @@ def ProDuckX = {
 </div>
 
 ## 📊 GitHub Activity
-<!-- 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=produckx&show_icons=true&count_private=true&hide=contribs&title_color=3382ed&text_color=c9d1d9&icon_color=3382ed&bg_color=0d1117&hide_border=true&cache_seconds=86400)](https://github.com/produckx)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=produckx&layout=compact)](https://github.com/produckx)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=produckx&theme=dark&hide_border=true&ring=3382ed&fire=3382ed&currStreakLabel=3382ed&background=0D1117)](https://git.io/streak-stats)
-
-</div>
--->
 
 <div align="center" >
 <a  href="https://github.com/produckx">
 
-<img src="https://raw.githubusercontent.com/produckx/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=produckx&hide=issues" width="32.5%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=produckx&layout=compact" width="32.5%">
-<img src="https://raw.githubusercontent.com/produckx/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+<!-- <img src="https://raw.githubusercontent.com/produckx/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> -->
 
 </a> 
 <br/><br/>
