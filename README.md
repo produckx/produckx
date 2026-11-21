@@ -42,15 +42,15 @@ def ProDuckX = {
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=svelte,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,bootstrap)](#)
 
 **Backend & Database**
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,postgres,sqlite,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,postgres,sqlite,mysql)](#)
 
 **DevOps & Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,flutter,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,flutter,postman)](#)
 
 </div>
 
