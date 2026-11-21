@@ -38,7 +38,7 @@ def ProDuckX = {
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,php,javascript,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,javascript,dart)]()
 
 **Frontend**
 
